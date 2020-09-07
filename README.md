@@ -1,2 +1,2 @@
 # hello-world
-my first before attempting to build a software product
+my first step before attempting to build a software product
